@@ -7,3 +7,6 @@
 [submodule "teensy-cli"]
 	path = teensy-cli
 	url = https://github.com/nolanholden/teensy-cli
+[submodule "cores"]
+	path = cores
+	url = https://github.com/nolanholden/cores
