@@ -4,3 +4,6 @@
 [submodule "freertos"]
 	path = freertos
 	url = https://github.com/nolanholden/freertos
+[submodule "teensy-cli"]
+	path = teensy-cli
+	url = https://github.com/nolanholden/teensy-cli
