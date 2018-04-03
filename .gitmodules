@@ -1,0 +1,3 @@
+[submodule "arm-none-eabi-gcc"]
+	path = arm-none-eabi-gcc
+	url = https://github.com/nolanholden/arm-none-eabi-gcc
